@@ -85,8 +85,8 @@ For the most seamless experience, follow your organization's preferred or requir
 
 This option appears only if your organization has enabled certificate-based authentication and a valid certificate is available.
 
-1. Open the ScreenConnect Client on your device.
-2. Input the email address tied to your work or school account and click **Next**.
-3. Choose **Sign in with a certificate**.
+1. Open the ScreenConnect Client on your device
+2. Input the email address tied to your work or school account and click **Next**
+3. Choose Sign in with a certificate.
 4. Tap **Continue** to proceed with certificate confirmation.
-5. The app will validate the certificate. Once approved, access to your organization’s resources and app features will be provided.
+5. The app will validate the certificate. Once approved, access to your organization’s resources and app features will be provided
